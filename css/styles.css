@@ -15,7 +15,7 @@ body{
     /*overflow: hidden; Hides unnecessary scrollbars */
 
     background-image: url('../img/hclBG.png'); /* Ensure the correct path */
-    background-size: cover; /* Ensures the image covers the entire viewport */
+    background-size: 100% 100%; /* Ensures the image covers the entire viewport */
     background-position: center; /* Centers the image */
     background-repeat: no-repeat; /* Prevents the image from repeating */
     margin: 0; /* Removes default margins */
